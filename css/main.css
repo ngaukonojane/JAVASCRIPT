@@ -1,0 +1,47 @@
+body{
+	background-color: grey;
+
+}
+div{
+	background-color: black;
+	width: 200px;
+	margin:auto;
+	padding: 30px;
+	height: 400px;
+}
+
+.box{
+	border-radius: 90px;
+	margin: auto;
+}
+
+.panel1{
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+	
+
+.panel2{
+	background-color: yellow;
+	width: 100px;
+	height: 100px
+
+}
+.panel3{
+	background-color: green;
+	width: 100px;
+	height: 100px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+
+.container{
+	background-color: black;
+	width:50px; 
+	margin:auto;
+	height:300px; 
+}
