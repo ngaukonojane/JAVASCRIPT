@@ -14,8 +14,8 @@ function nth(list, t) {
     return nth(list.rest, t - 1);
 }
 
-console.log(nth(listArray([20, 30, 40]), 1));
+console.log(nth(listArray([50, 20, 10]), 1));
 
 
 
-const v = (list,t) => =(nth(listArray([20, 30, 40]), 1));
+
